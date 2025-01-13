@@ -31,7 +31,7 @@ Regardless the servers are flaky and probably will timeout/crash at some point. 
 
 Once you have downloaded all your videos run `python3 build.py` to make the data for the website. 
 
-Now you can run the it like a local website to browse your videos: `python3 -m http.server` and open http://localhost:8000/ in your browser. Should look like this:
+Now you can run it like a local website to browse your videos: `python3 -m http.server` and open http://localhost:8000/ in your browser. Should look like this:
 
 
 ![Screenshot 2025-01-12 at 6 33 33 PM](https://github.com/user-attachments/assets/adb3b6d8-fca6-4c4b-b228-8cf3c60d0120)
