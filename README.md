@@ -2,12 +2,12 @@
 Backing up my tic tac likes and favs videos
 ----
 
-These two scripts will download all of you Liked and Favorited videos and build a local website for you to browse them. It works using your user data requested from tik tok and [pyktok](https://github.com/dfreelon/pyktok)
+These two scripts will download all of your Liked and Favorited videos and build a local website for you to browse them. It works using your user data requested from tik tok and [pyktok](https://github.com/dfreelon/pyktok)
 
 
 ## How to use:
 
-Before we start you need to make sure you have your TicTok User data file called `user_data_tiktok.json` (called `TikTok_Data_######.zip` zipped). To download this on your app go to:
+Before we start you need to make sure you have your TikTok User data file called `user_data_tiktok.json` (called `TikTok_Data_######.zip` zipped). To download this on your app go to:
 1. Settings and privacy
 2. Account
 3. Download your data
